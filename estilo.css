@@ -1,0 +1,35 @@
+body{
+    background-color: lightgray;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+h2{
+    text-align: center;
+}
+div{
+    width: 400px;
+    background: whitesmoke;
+    margin: 30px 50px;
+    padding: 20px;
+    border-radius: 5%;
+}
+img{
+    width: 300px;
+    border-radius: 50%;
+    box-shadow: 7px 7px 0px white;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 300px;
+}
+table td, tr, th{
+    border: 1px solid black;
+    padding: 8px;
+}
+a{
+    color:blue;
+    text-decoration: none;
+}
